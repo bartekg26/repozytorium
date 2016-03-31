@@ -12,7 +12,7 @@ namespace ConsoleApplication1_hello
         {
 
             Console.WriteLine("drugi commit");
-
+            Console.WriteLine("dodalem branch");
 
         }
     }
