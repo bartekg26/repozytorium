@@ -11,7 +11,7 @@ namespace ConsoleApplication1_hello
         static void Main(string[] args)
         {
 
-            Console.WriteLine("piaty commit");
+            Console.WriteLine("szosty commit");
 
 
         }
