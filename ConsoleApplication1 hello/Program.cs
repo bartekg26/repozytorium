@@ -11,13 +11,12 @@ namespace ConsoleApplication1_hello
         static void Main(string[] args)
         {
 
-<<<<<<< HEAD
+
             Console.WriteLine("drugi commit");
             Console.WriteLine("dodalem branch");
-=======
+
             Console.WriteLine("szosty commit");
 
->>>>>>> master
 
         }
     }
